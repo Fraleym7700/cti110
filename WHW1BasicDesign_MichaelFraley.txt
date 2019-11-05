@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<h1> page headers</h1>
+<h2> subheaders</h2>
+<h3>First Section Header<h3><br><br>
+
+<section>
+  <p>Home || Page two || Page three</p>
+  <img src="beach.jpg" alt="Beach picture" style="width:128px;height:128px">
+<body>
+This is a picture of a beach used to catch your attention, thank you for looking at it. if you want to look again it is still there... Okay now youre taking to long, take a picture and get moving!
+</body>
+</section>
+<section>
+<h1> Description list below</h1><br>
+<h2> Category 1</h2>
+  <p>first item.<br>second item.</p>
+<h2> Category 2</h2>
+  <p>first item.<br>second item.</p>  
+</section>
+<section>
+<h1> Address block</h1>
+  <p>800-555-5555</p>
+  <p>1242 Grassy Lane</p>
+
+  <p>Fish Creek, WI 55534</p>
+
+  <p>copyright ©2019 xxxxxxxxx</p>
+  <a href="url">Contact us</a>
+
+  
+</section>
+</html>
